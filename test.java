@@ -15,7 +15,7 @@ import java.util.List;
 import static java.util.Collections.emptyList;
 
 /**
- * 开始游戏
+ * 开始游戏  嘿嘿哈哈
  *
  * @author <a href="mailto:517926804@qq.com">Mike Chen</a>
  * @version 0.1.0
